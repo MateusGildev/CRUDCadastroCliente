@@ -1,8 +1,8 @@
 # CRUD Java - Projeto Exemplo
 
 ## Descrição
-
-Este é um projeto exemplo de um CRUD (Create, Read, Update, Delete) desenvolvido em Java, utilizando Servlets,TomCat,Boostrap e arquitetura MVC. O CRUD permite a criação, leitura, atualização e exclusão de registros de clientes em um banco de dados.
+Fiz esse projeto para praticar minhas habilidades desenvolvidas no laboratório de programação.
+Este é um projeto de exemplo de um CRUD(Create, Read, Update, Delete) desenvolvido em Java, utilizando Servlets,TomCat,Boostrap e arquitetura MVC. O CRUD permite a criação, leitura, atualização e exclusão de registros de clientes em um banco de dados.
 
 ## Uso
 
