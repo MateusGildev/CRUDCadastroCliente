@@ -1,9 +1,5 @@
 # CRUD Java - Projeto Exemplo
 
-![GitHub](https://img.shields.io/github/license/MateusGildev/AplCrud)
-![GitHub last commit](https://img.shields.io/github/last-commit/MateusGildev/AplCrud)
-![GitHub language count](https://img.shields.io/github/languages/count/MateusGildev/AplCrud)
-
 ## Descrição
 
 Este é um projeto exemplo de um CRUD (Create, Read, Update, Delete) desenvolvido em Java. O CRUD permite a criação, leitura, atualização e exclusão de registros de clientes em um banco de dados.
