@@ -1,4 +1,4 @@
-# CRUD Java - Projeto Exemplo
+# CRUD Java Web
 
 ## Descrição
 Fiz esse projeto para praticar minhas habilidades desenvolvidas no laboratório de programação.
